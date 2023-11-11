@@ -1,0 +1,25 @@
+emp:
+  info:
+    company:
+      location: Banglore
+      size: 23
+      title: Full Stack
+    id: 23
+    id-details:
+      aadharNo: 98765
+      panNo: 126783
+      voterId: 784321
+    name: Rahul
+    phone-numbers:
+    - 999888777
+    - 666555444
+    - 333222111
+    skills:
+    - java
+    - jee
+    - ORM
+    - SpringBoot
+    team-members:
+    - Krishna
+    - Vishnu
+    - Ram

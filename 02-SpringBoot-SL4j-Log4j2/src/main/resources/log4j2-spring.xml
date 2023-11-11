@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Appenders>
+		<Console name="cons" target="SYSTEM_OUT">
+			<PatternLayout pattern="[%d{MM:dd HH:mm:ss.SSS}] [%p] [%c] - %m %F %L %n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Root level="trace">
+			<AppenderRef ref="cons" />
+		</Root>
+	</Loggers>
+</Configuration>

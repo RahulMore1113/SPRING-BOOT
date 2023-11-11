@@ -1,0 +1,10 @@
+com.rahul.Application 2649 restartedMain INFO Starting Application using Java 17.0.7 with PID 6504 (R:\Study\Projects\SPRING BOOT\01-SpringBoot-Log4j\target\classes started by Rahul in R:\Study\Projects\SPRING BOOT\01-SpringBoot-Log4j) 2023-08-12 01:57:35,787 
+com.rahul.Application 2658 restartedMain INFO No active profile set, falling back to 1 default profile: "default" 2023-08-12 01:57:35,796 
+org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor 2980 restartedMain INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 2023-08-12 01:57:36,118 
+org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer 5386 restartedMain INFO LiveReload server is running on port 35729 2023-08-12 01:57:38,524 
+com.rahul.Application 5466 restartedMain INFO Started Application in 4.604 seconds (process running for 7.149) 2023-08-12 01:57:38,604 
+com.rahul.beans.Student 5483 restartedMain DEBUG Control entering inside Student :: preparaton() 2023-08-12 01:57:38,621 
+com.rahul.beans.JavaCourseMaterial 5485 restartedMain DEBUG Control entering into JavaCourseMaterial :: courseContent() 2023-08-12 01:57:38,623 
+com.rahul.beans.Student 5486 restartedMain INFO Course content is choosen :: 1. Servlet 2. Hibernate 3. Spring... 2023-08-12 01:57:38,624 
+com.rahul.beans.Student 5487 restartedMain INFO Course price is ready :: 100000.0 2023-08-12 01:57:38,625 
+com.rahul.beans.Student 5491 restartedMain DEBUG Control exitig from Student :: preparation() 2023-08-12 01:57:38,629 
